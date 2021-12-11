@@ -4,12 +4,15 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    int res;
+    cout<<"ingrese que ejercicio quiere ";
+    cin>>res;
+    switch (res) {
+    case 1: //si elige 1 coge el primer ejercicio//
+
+     break;
+
+
+    }
     return 0;
-}
-int ejercicio1()
-{
-    cout<<"hola k"<<endl;
-
-
 }
