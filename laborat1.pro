@@ -12,9 +12,14 @@ SOURCES += \
         ejercicio19.cpp \
         ejercicio21.cpp \
         ejercicio23.cpp \
+        ejercicio25.cpp \
+        ejercicio27.cpp \
+        ejercicio29.cpp \
         ejercicio3.cpp \
         ejercicio5.cpp \
         ejercicio7.cpp \
-        ejercicio9.cpp
+        ejercicio9.cpp \
+        problema1.cpp \
+        problema6.cpp
 
 HEADERS +=
